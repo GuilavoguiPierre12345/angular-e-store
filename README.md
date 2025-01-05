@@ -17,12 +17,24 @@ Puis installer les dependencies du projet a l'aide de :
 npm install 
 ```
 
-## Development server
+Repertoire cible :
+
+``` bash 
+cd angular-e-store
+```
+
+#### Development server
 
 To start a local development server, run:
 
 ```bash
 ng serve
+```
+
+#### Application online url
+
+```bash 
+https://angular-e-store.vercel.app
 ```
 
 Ensuite dans votre navigateur tapez : 
